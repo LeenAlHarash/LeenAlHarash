@@ -24,8 +24,10 @@ These are the programming languages I enjoy working with:
 - **Python**: For scripting, automation, and application development.
 - **PHP**: For server-side web development.
 
+
 ## Other Skills
 - **Linux**: Able to use and manage Linux-based systems.
+
 
 ## Currently learning
 - 
