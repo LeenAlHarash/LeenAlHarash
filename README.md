@@ -1,6 +1,7 @@
 # Welcome to My GitHub!
 
-Hello! I'm [Leen Al Harash], a computer science student, a passionate application developer web and mobile, with an interest in both front-end and back-end technologies. 
+Hello! I'm Leen Al Harash, a computer science student, a passionate application developer ; web & mobile, with an interest in both front-end and back-end technologies.
+
 Proficient in customer service and able to work with minimal to no supervision. Enhanced communication and leadership, ability to lead teams and manage projects at various levels. 
 I'm always open to sharing insights, and exploring more opportunities.
 
