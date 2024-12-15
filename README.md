@@ -19,7 +19,7 @@ I'm always open to sharing insights, and exploring more opportunities.
 - **PHP**: For server-side web development.
 - **Java**: For building cross-platform applications.
 
-## Known framworks
+## Learned framworks
 - Laravel: PHP framework used for the front-end & back-end for creating websites
 
 ## Other Skills
