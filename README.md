@@ -18,6 +18,7 @@ I'm always open to sharing insights, and exploring more opportunities.
 - **Python**: For scripting, automation, and application development.
 - **PHP**: For server-side web development.
 - **Java**: For building cross-platform applications.
+- **JavaFX**: For creating, designing and deploying applications.
 
 ## Learned framworks
 - Laravel: PHP framework used for the front-end & back-end for creating websites
