@@ -12,8 +12,8 @@ I'm always open to sharing insights, and exploring more opportunities.
 
 
 ## Computer/Coding Langugages Learned
-- **HTML**: For structuring content on the web.
-- **CSS**: To style and design web pages.
+- **HTML5**: For structuring content on the web.
+- **CSS3**: To style and design web pages.
 - **SQL**: For managing and querying data in relational databases.
 - **Python**: For scripting, automation, and application development.
 - **PHP**: For server-side web development.
