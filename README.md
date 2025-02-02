@@ -17,8 +17,9 @@ I'm always open to sharing insights, and exploring more opportunities.
 - **SQL**: For managing and querying data in relational databases.
 - **Python**: For scripting, automation, and application development.
 - **PHP**: For server-side web development.
-- **Java**: For building cross-platform applications.
+- **Java EE & Java SE**: For building cross-platform applications.
 - **JavaFX**: For creating, designing and deploying applications.
+- **Kotlin**: For modern, expressive programming, often used for Android app development.
 
 ## Learned framworks
 - Laravel: PHP framework used for the front-end & back-end for creating websites
