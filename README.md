@@ -27,3 +27,4 @@ I'm always open to sharing insights, and exploring more opportunities.
 ## Other Skills
 - **Object-Oriented Programming (OOP)**: Experienced in applying OOP principles such as encapsulation, inheritance, and polymorphism.
 - **Linux**: Able to use and manage Linux-based systems.
+- **Video games**: Able to develop video games in 2D and 3D using Unity.
