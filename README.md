@@ -26,9 +26,14 @@ I'm always open to sharing insights, and exploring more opportunities.
 - **JavaFX**: For creating, designing and deploying applications.
 - **Spring Boot**: A Java-based framework that simplifies the creation of production-ready back-end applications and APIs using the Spring ecosystem.
 - **Angular**: A front-end TypeScript framework used to build dynamic and responsive single-page web applications (SPAs).
+- **ASP.NET Core**: For developing modern, fast, and scalable web APIs and applications.
 
 ## Other Skills
 - **Object-Oriented Programming (OOP)**: Experienced in applying OOP principles such as encapsulation, inheritance, and polymorphism.
 - **Linux**: Able to use and manage Linux-based systems.
 - **Git:** For version control, enabling collaboration and efficient project management.
 - **Video games**: Able to develop video games in 2D and 3D using Unity.
+- **Docker**: Able to containerize applications, manage images/containers, and build portable environments.
+- **CI/CD Pipelines**: Experience setting up automated pipelines (build, test, deploy).
+- **API Integration**: Connecting REST APIs to Android applications (Kotlin).
+- **IoT / Objets Connectés**: Working with sensors, embedded devices, data collection, and testing connected systems.
