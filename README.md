@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 🤗
+# Welcome to My GitHub!✨
 
 Hello! I'm Leen Al Harash,  a web and application development student, soon to graduate, with a passion for creating clean programming experiences with an interest in both front-end and back-end technologies.
 
