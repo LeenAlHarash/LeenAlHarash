@@ -1,6 +1,7 @@
-# Welcome to my page!✨
+# Welcome!✨
 
 Hello! I'm Leen Al Harash,  a web and application development student, soon to graduate, with a passion for creating clean programming experiences with an interest in both front-end and back-end technologies.
+
 
 Through my studies and projects, I’ve gained hands-on experience with the following technologies:
 ## Frontend Technologies
@@ -8,6 +9,7 @@ Through my studies and projects, I’ve gained hands-on experience with the foll
 - **CSS3**: To style and design web pages.
 - **TypeScript**: For scalable web applications, offering type safety and advanced tooling on top of JavaScript.
 - **JavaFX**: For creating and designing graphical user interface (GUI) applications.
+- **JavaScript**: Core scripting language for creating dynamic and interactive web experiences.
 
 
 ## Backend Technologies
